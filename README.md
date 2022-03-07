@@ -34,9 +34,9 @@ The **technology** is much less interesting than understanding a simple repeatab
 
 <img src="./slides/Prescriptive.png" width="300" align="right">I consider _marketing analytics_ to be part of what I call **Prescriptive Analytics**.  This means that the analytics we do are far more advanced than just _predictive_ or _descriptive_ (machine learning and basic BI reporting).  We want to provide our business with ideas regarding _What do we do next?_.  
 
-emeralds at qVC being returned
-ebay resellers
-indulgers
+_Here's some quick aphorisms on marketing analytics and Design Thinking_
+* jewelry
+
 
 
 
@@ -52,16 +52,17 @@ This is a fun example of _Prescriptive Analytics_.  We are going to make recomme
 
 [Jupyter Notebook](./SocialMediaCampaignAnalytics.ipynb)
 
-pdfs
+## Lead Scoring
 
-Lead Scoring  https://towardsdatascience.com/saving-the-scranton-branch-with-lead-scoring-8599ed4a874f
+...you can use this approach for any Conversion Rate Optimization problem
 
-CLV
+[Jupyter Notebook](./LeadScoring.ipynb)
 
-correlationcausation.xls
+## Customer Lifetime Value
 
-Market segmentation, also called customer profiling,
+`CLV` or `Customer Lifetime Value` ... it seems like every business wants to know this data point.  
 
-Inclusions in emeralds
-Ebay resellers:  buy a lot and then return a lot
-	We want these customers to churn
+[Jupyter Notebook](./CustomerLifetimeValue.ipynb)
+
+
+

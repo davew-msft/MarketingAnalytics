@@ -21,3 +21,4 @@ pyodbc
 #fugue[all]
 #fugue[sql, spark, dask]
 fugue[sql]
+imblearn
