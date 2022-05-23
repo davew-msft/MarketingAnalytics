@@ -12,3 +12,5 @@ correlationcausation.xls
 
 
 search for "attribution modeling" in 1note
+
+cherry picking lying with revenue
