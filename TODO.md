@@ -9,3 +9,6 @@ indulgers
 pdfs
 
 correlationcausation.xls
+
+
+search for "attribution modeling" in 1note
